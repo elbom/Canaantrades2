@@ -322,7 +322,7 @@
 /* Add any additional CSS styles as needed */
 
   
-body {
+.body {
       background-image: url('hero-background.jpg');
       background-repeat: no-repeat;
       background-size: cover;
