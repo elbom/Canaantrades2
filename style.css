@@ -1,0 +1,46 @@
+/* Header Styles */
+.webapp-header {
+  background-color: #2196F3;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+}
+
+.navigation-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navigation-menu ul li {
+  margin-right: 20px;
+}
+
+.navigation-menu ul li:last-child {
+  margin-right: 0;
+}
+
+.navigation-menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Add any additional CSS styles as needed */
