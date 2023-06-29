@@ -18,6 +18,7 @@
 }
 
 .logo img {
+  curser: pointer;
   height: 40px;
   width: auto;
 }
