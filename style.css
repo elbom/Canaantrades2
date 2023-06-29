@@ -44,3 +44,51 @@
 }
 
 /* Add any additional CSS styles as needed */
+
+/* Header Styles */
+.webapp-header {
+  /* Header styles here */
+}
+
+/* Hero Section Styles */
+.hero-section {
+  background-color: #F8F8F8;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hero-content h1 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #2196F3;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #1769b7;
+}
+
+/* Add any additional CSS styles as needed */
+
+  
