@@ -53,6 +53,7 @@
 
 /* Hero Section Styles */
 .hero-section {
+  background-image: url('hero-background.jpg')
   
   background-color: #F8F8F8;
   padding: 100px 0;
