@@ -17,12 +17,25 @@
   justify-content: space-between;
 }
 
-.logo img {
-  curser: pointer;
-  height: 40px;
-  width: auto;
+
+.logo {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #333;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
 }
 
+.logo-text {
+  color: #ff5500;
+}
+
+.logo-subtext {
+  color: #666;
+}
 .navigation-menu ul {
   list-style: none;
   margin: 0;
