@@ -365,3 +365,46 @@
   color: #333;
   font-weight: bold;
 }
+.window-settings {
+  background-color: #f1f1f1;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.window-settings h2 {
+  margin-top: 0;
+}
+
+.window-settings form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  margin-top: 20px;
+}
+
+.window-settings label {
+  font-weight: bold;
+}
+
+.window-settings input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.window-settings button {
+  padding: 8px 16px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.window-settings button:hover {
+  background-color: #555;
+}
+
+
+
