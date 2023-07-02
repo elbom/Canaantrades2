@@ -406,5 +406,26 @@
   background-color: #555;
 }
 
+/* Default styles for all screen sizes */
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Styles for screens with a maximum width of 768px */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}
+
+/* Styles for screens with a maximum width of 480px */
+@media (max-width: 480px) {
+  .container {
+    padding: 5px;
+  }
+}
 
 
